@@ -1,5 +1,7 @@
 # PlatformIO-Lab
 
+```python
+
 #include <Arduino.h>
 #include <Bounce2.h>
 
@@ -52,3 +54,4 @@ void loop() {
   // Small delay to prevent overwhelming the serial output
   delay(10);
 }
+```
