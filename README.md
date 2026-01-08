@@ -62,5 +62,6 @@ void loop() {
 
 ![IMG_0671_2mb](https://github.com/user-attachments/assets/bb8e283a-012e-4b66-a990-a856febb13ea)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d9fff31-8aca-4c71-9433-ad3057f4675c" />
 
 
